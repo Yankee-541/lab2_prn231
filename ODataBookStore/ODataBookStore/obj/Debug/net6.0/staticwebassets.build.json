@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xw5YredKBTtpwS9OLK/9iqnKp928ug8W4qOrqmUZXIQ=",
+  "Source": "ODataBookStoreAPI",
+  "BasePath": "_content/ODataBookStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

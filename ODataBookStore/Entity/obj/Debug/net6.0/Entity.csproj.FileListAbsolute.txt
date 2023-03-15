@@ -1,0 +1,12 @@
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\bin\Debug\net6.0\Entity.deps.json
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\bin\Debug\net6.0\Entity.dll
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\bin\Debug\net6.0\Entity.pdb
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\obj\Debug\net6.0\Entity.dll
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\obj\Debug\net6.0\refint\Entity.dll
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\obj\Debug\net6.0\Entity.pdb
+F:\Documents\FPT_University\Semester_8\prn221\LabPrn\Lab2\ODataBookStore\Entity\obj\Debug\net6.0\ref\Entity.dll
